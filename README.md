@@ -25,13 +25,13 @@ ISBN-10: 1133625908  ISBN-13: 9781133625902
 
 | Session | Date    | Topic                                                     | Activities |
 |---------|---------|-----------------------------------------------------------|------|
-| 1       | 1/23/17 | Topic 1                                                   | [Sample GIST](https://gist.github.com/jkuruzovich/9c4622ad1d9073ca3132937ba15e3562) |
-| 2       | 1/30/17 | Topic 2                                                   | [Sample File](./class2.md)  |
+| 1       | 1/23/17 | Topic 1                                                   | [Sample File](./class2.md) |
+| 2       | 1/30/17 | Topic 2                                                   | [Sample GIST](https://gist.github.com/jkuruzovich/9c4622ad1d9073ca3132937ba15e3562)  |
 | 3       | 2/6/17  | Topic 3                                                   | Class |
 | 4       | 2/13/17 | Topic 4                                                   | Class] |
 |         | 2/20/17 | President's Day holiday-No classes.                       | Class |
 | 5       | 2/21/17 | Topic 5                    *(Tuesday)*                    | Class |
-|         | 2/23/17 | *Project: Initial Summary Due  *                          | Project  |
+|         | 2/23/17 | *Project: Initial Summary Due*                            | Project  |
 | 6       | 2/27/17 | Topic 6                                                   | Class  |
 | 7       | 3/6/17  | Topic 7                                                   | Class *Midterm* |
 |         | 3/13/17 | Spring Break                                              | Class |
