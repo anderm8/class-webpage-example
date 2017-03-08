@@ -1,4 +1,4 @@
-## Welcome to ~Your Class
+## Welcome to ~Just Testing!
 
 Instructor Name: ~ Mark Anderson (testing)  
 Office Location: ~office
