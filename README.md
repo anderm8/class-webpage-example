@@ -1,6 +1,6 @@
 ## Welcome to ~Your Class
 
-Instructor Name: ~yourname  
+Instructor Name: ~ Mark Anderson (testing)  
 Office Location: ~office
 Tel. No.:	 cphone		             
 Email Address: ~you(at)rpi.edu
